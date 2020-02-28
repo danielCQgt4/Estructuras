@@ -1,0 +1,8 @@
+//Objetos
+Es importante que cada objeto ***nuevo*** tiene una referencia a memoria;
+Cuando se crea un obj A y luego a otro obj B se le asigna A, tal que : 
+A = B;
+Ambos objetos obtienen la misma referencia a memoria;
+
+//Estruturas
+Estrutura de datos: Es una manera de poder ordenar la informacion de manera logica;
